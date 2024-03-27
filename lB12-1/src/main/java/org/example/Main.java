@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         String name = "NAME";
         System.out.println("COOL!, " + name + "!");
-        System.out.println(" ");
+        System.out.println("bla bla bla");
     }
 }
