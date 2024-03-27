@@ -2,7 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        String name = "ИМЯ";
-        System.out.println("Круто 2, " + name + "!");
+        String name = "NAME";
+        System.out.println("COOL!, " + name + "!");
+        System.out.println(" ");
     }
 }
